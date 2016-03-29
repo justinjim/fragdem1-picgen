@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flash Card</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="buttontext">GG</string>
+    <string name="toptext">DO IT DO IT DO IT</string>
+    <string name="bottext">PALAADIN</string>
+</resources>
